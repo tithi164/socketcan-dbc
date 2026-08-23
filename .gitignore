@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Temporary editor files
+*.swp
+*.swo
+*~
+
+# OS-generated files
+.DS_Store
+Thumbs.db
